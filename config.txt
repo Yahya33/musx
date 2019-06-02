@@ -1,0 +1,6 @@
+﻿token= NTg0NTc0MzA0NzU5MzE2NDgw.XPM5XQ.SYZvZZCpStvMBn6LwKP0nvEaTnU
+owner= 382593940165099530
+prefix= 1
+game= hhhhhhhh
+stayinchannel=true
+songinstatus=false
